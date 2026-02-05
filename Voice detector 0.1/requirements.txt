@@ -8,9 +8,3 @@ pydantic
 python-multipart
 soundfile
 scipy
-pydub
-streamlit
-requests
-streamlit-lottie
-streamlit-mic_recorder
-pandas
